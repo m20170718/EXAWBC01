@@ -1,5 +1,5 @@
 applications:
-- path: target/test05APP01.war
+- path: target/test05APP02.war
   memory: 512M
   instances: 1
   domain: mybluemix.net

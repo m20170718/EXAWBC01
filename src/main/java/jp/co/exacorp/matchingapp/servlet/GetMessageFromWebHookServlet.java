@@ -29,7 +29,7 @@ import jp.co.exacorp.matchingapp.util.Constants;
 import jp.co.exacorp.matchingapp.util.LINEConstants;
 
 //@WebServlet("/TEST01APP")
-@WebServlet("/test05APP01")
+@WebServlet("/test05APP02")
 public class GetMessageFromWebHookServlet extends HttpServlet {
 
 	private static final long serialVersionUID = 1L;
