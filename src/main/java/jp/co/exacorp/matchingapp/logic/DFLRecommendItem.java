@@ -38,6 +38,7 @@ public class DFLRecommendItem {
 	private static final String ITEM_SELECT_BEFORE = "itemSelectBefore";
 	private static final String ITEM_SELECT = "itemSelect";
 //	private static final String SELECT_ITEM_EXPLANATION = "おすすめのプラン";
+//	private static final String SELECT_ITEM_EXPLANATION = "おすすめのプラン";
 	private static final String SELECT_PLAN_EXPLANATION = "おすすめのプラン";
 	private static final String SELECT_PLAN1_EXPLANATION = "備前焼体験";
 	private static final String SELECT_NEWS1_EXPLANATION = "観光ニュース";
